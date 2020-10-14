@@ -54,3 +54,6 @@ body {
   font-size: 20px;
   font-weight: 600;
 }
+.container img {
+  width: 20%;
+}
